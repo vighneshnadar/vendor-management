@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj": {}
+    "c:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj": {}
   },
   "projects": {
-    "C:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj": {
+    "c:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
+        "projectUniqueName": "c:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
         "projectName": "solarp.data",
-        "projectPath": "C:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
+        "projectPath": "c:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
         "packagesPath": "C:\\Users\\nadar\\.nuget\\packages\\",
-        "outputPath": "C:\\VisualStudioProj\\solarp\\solarp.data\\obj\\",
+        "outputPath": "c:\\VisualStudioProj\\solarp\\solarp.data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nadar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

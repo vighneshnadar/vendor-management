@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iom4Ik4hNMfQOUsCwRVIhGkhgcO+F/6/5dk6tsOvyf0R0xIeZYtAITlsZI05rbI5Umrjay7Vw4T4mYb4UyzXpw==",
+  "dgSpecHash": "uhLFfTx322wPOZmQUxOM/32Aoh0OWKLFpOqBIkwhVyG1bWHreOvite97bEYU3t1vfe3pgR6sTVw6DJtGTPng+A==",
   "success": true,
-  "projectFilePath": "C:\\VisualStudioProj\\solarp\\solarp.web\\solarp.web.csproj",
+  "projectFilePath": "c:\\VisualStudioProj\\solarp\\solarp.web\\solarp.web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nadar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\nadar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

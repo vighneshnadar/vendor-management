@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJhYvLTRMFHDgo2nbOxv+vgg9QcTtDoG8ZPT+CeS3CWNXDbdc8sxWCbCwrZdmcBk56HnpUCP8QzVgxt1MBzdqg==",
+  "dgSpecHash": "pDIrlF4NhizCET6F/3ZczyKxP7J+kY3iNpLTmQt18tWcqOY9omX49pkf9VstXGeo79e1Pf7Hwu6QV/Fwn/gUVQ==",
   "success": true,
-  "projectFilePath": "C:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
+  "projectFilePath": "c:\\VisualStudioProj\\solarp\\solarp.data\\solarp.data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nadar\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\nadar\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

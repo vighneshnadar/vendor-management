@@ -7,6 +7,7 @@ builder.Services.AddDbContext<solarDbContext>(options=>{
     options.EnableDetailedErrors();
     var connString = builder.Configuration.GetConnectionString("solarp.dev");
     options.UseNpgsql(connString);
+    
 
 }
 );
